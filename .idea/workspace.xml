@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b76d335-680b-45ca-b657-a4fb87cb0243" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore1.5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Laliev/javacore/basepatterns/creational/CppDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Laliev/javacore/basepatterns/creational/Factory/CppDeveloper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Laliev/javacore/basepatterns/creational/CppDeveloperFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Laliev/javacore/basepatterns/creational/Factory/CppDeveloperFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Laliev/javacore/basepatterns/creational/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Laliev/javacore/basepatterns/creational/Factory/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Laliev/javacore/basepatterns/creational/DeveloperFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Laliev/javacore/basepatterns/creational/Factory/DeveloperFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Laliev/javacore/basepatterns/creational/JavaDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Laliev/javacore/basepatterns/creational/Factory/JavaDeveloper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Laliev/javacore/basepatterns/creational/JavaDeveloperFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Laliev/javacore/basepatterns/creational/Factory/JavaDeveloperFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Laliev/javacore/basepatterns/creational/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Laliev/javacore/basepatterns/creational/Factory/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

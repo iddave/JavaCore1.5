@@ -1,4 +1,9 @@
-package com.Laliev.javacore.basepatterns.creational;
+package com.Laliev.javacore.basepatterns.creational.Factory;
+
+import com.Laliev.javacore.basepatterns.creational.Factory.CppDeveloperFactory;
+import com.Laliev.javacore.basepatterns.creational.Factory.Developer;
+import com.Laliev.javacore.basepatterns.creational.Factory.DeveloperFactory;
+import com.Laliev.javacore.basepatterns.creational.Factory.JavaDeveloperFactory;
 
 public class main {
     public static void main(String[] args) {
